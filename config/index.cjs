@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '61cb27d7521df3fb69e16fd7a6ffba49',
 
   PROVINCE: '广西',
-  CITY: '西乡塘区',
+  CITY: '南宁',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKkJH6qtEXINBR0vfV6CP2dEpMb0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6uHOcZhN8L0WzBNV6IhJ2YRWFL6NOc7B7vEcnQs5IR0',
+      useTemplateId: '7dOucaqxmLoZdslA8QDGMrcPqPLXG6SlcGge-u4z06o',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-05',
       festivals: [
