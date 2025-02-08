@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '28f9b14ca3f3ea93f32082404bbdbf34',
 
   PROVINCE: '广西',
-  CITY: '西乡塘区',
+  CITY: '南宁',
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '894b9e92ab9eda987827524de11311c2',
@@ -43,13 +43,13 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'opnDo6_ikFd-2Q4u-ALhvaBUuhRE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '_VfzgDXf_kP-uYtuAJrOOniFituVxrx1JJ8EH1g-CGk',
+      useTemplateId: '34Hxla-8--AsZa5kRHtH0l4bY-y1HfNdSO_6OOx60xI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-05',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '黄金琳', year: '2001', date: '08-12',
+          type: '*生日', name: '琳琳宝宝', year: '2001', date: '08-12',
         }
       ],
       // 我们在一起已经有xxxx天了的配置
